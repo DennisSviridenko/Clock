@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#app{
+    /* font-size: 2000%; */
+    font-size: 30vw;
+    font-size: 30vh;
+    top: 10%;
+    margin: 0%;
+}
+
+#app2{
+    /* font-size: 1000%; */
+    font-size: 15vw;
+    font-size: 15vh;
+    margin: 0%;
+}
